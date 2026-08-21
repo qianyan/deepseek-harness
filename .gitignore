@@ -39,3 +39,6 @@ apps/web/dist/
 worktrees/
 .agents/worktrees/
 .typert-*/
+
+# local eval exports
+dsh-eval.export.html
